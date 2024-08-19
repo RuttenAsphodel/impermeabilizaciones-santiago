@@ -1,0 +1,22 @@
+/* Services.css */
+
+.services {
+    background-color: #f0f0f0; /* Gris claro */
+    text-align: center;
+  }
+  
+  .services h2 {
+    margin-bottom: 20px;
+    font-size: 2em;
+  }
+  
+  .services p {
+    font-size: 1.1em;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  img {
+    height: 30em;
+    width: 30em;
+  }
