@@ -1,0 +1,14 @@
+.hero-section {
+    background-image: linear-gradient(rgba(229, 221, 221, 0.708),rgba(16, 4, 91, 0.668)),url('/gotas-de-agua.jpg'); /* Reemplazar con la ruta de la imagen */
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    padding: 100px 20px;
+  
+  }
+
+html
+  {
+    scroll-behavior: smooth;
+  }
