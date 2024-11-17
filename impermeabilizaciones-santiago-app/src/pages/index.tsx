@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { Inter } from "next/font/google";
 // import Component from "../components/component/component";
 import ComponentAlt from "../components/component/component-alt"
